@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ .container {
+    background-color: rgb(130, 115, 115);
+ }
+
+ h1,h2 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+img {
+ padding-left: 45px;
+}
+
+ p {
+    font-size: 25px;
+    margin: 25px 30px;
+    padding-left: 15px;
+    height: 20%;
+}
+
+li {
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+    font-style: italic;
+}
